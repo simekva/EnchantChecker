@@ -1,2 +1,2 @@
-# EnchantChecker
-Checks raids enchants for suboptimal enchants. Cataclysm classic.
+# Enchant Checker for Cataclysm Classic
+Requires Node.js
